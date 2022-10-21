@@ -1,6 +1,5 @@
-🧑‍🎤 # Music-Managment-System ( OOP implemented)
+![Music-Managment-System](https://user-images.githubusercontent.com/86425586/197205222-581375e8-29f9-4e39-8775-26fdc14b9990.png)
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/binary11110/Music-Managment-System">
-
 Description:
 
 The Music Library Managment System has to manage various musical items and comes with a number of models and variety.Maintaing all musical records,such as creating order,calculating billls,adding new music,edit the music description ,and delete any item from the emusic library
