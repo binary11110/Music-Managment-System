@@ -1,4 +1,4 @@
-          ![Music-Managment-System](https://user-images.githubusercontent.com/86425586/197205222-581375e8-29f9-4e39-8775-26fdc14b9990.png)
+  ![Music-Managment-System](https://user-images.githubusercontent.com/86425586/197205222-581375e8-29f9-4e39-8775-26fdc14b9990.png)
 
 
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/binary11110/Music-Managment-System">
